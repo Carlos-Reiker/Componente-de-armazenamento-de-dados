@@ -22,11 +22,4 @@ The designs were created to the following widths:
 
 ## Typography
 
-### Body Copy
 
-- Font size: 14px
-
-### Font
-
-- Family: [Raleway](https://fonts.google.com/specimen/Raleway)
-- Weights: 400, 700

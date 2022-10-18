@@ -1,0 +1,26 @@
+body{
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+    background: #0C122C;
+    background-image:url(/images/bg-desktop.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+    background-position: bottom;  
+}
+.card-upload {
+    display: inline-block;
+    width: 351px;
+    height: 201px;
+    background: #1E2C69;
+    border-radius: 12px 120px 12px 12px;
+  }
+
+ /*Continuar: 
+ edição dos cards (centralizar e coloar icons); 
+ pegar resolução do segundo card;
+ editar botões com icones (usar uiverse.io "muito bom");
+ descobrir como inserir balão de dados;
+ como inserir barra de preenchimento funcional;
+ descobrir como fazer texto se alterar (ou deixar estático 
+ apenas para exibição?)*/ 
