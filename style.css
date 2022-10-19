@@ -9,17 +9,67 @@ body{
     background-position: bottom;  
 }
 .card-upload {
-    display: inline-block;
-    width: 351px;
-    height: 201px;
+    display:inline-block;
+    position: absolute;
+    width: 402px;
+    height: 223px;
+    margin: 291px 825px 306px 400px;
     background: #1E2C69;
-    border-radius: 12px 120px 12px 12px;
+    border-radius: 14px 120px 14px 14px;
   }
+.button-upload{
+    position: absolute;
+    cursor: pointer;
+    width: 56px;
+    height: 56px;
+    border-radius: 5px;
+    background: #0C122A;;
+    border: none;
+    margin: 105px 136px 45px 190px;
+}
+.button-upload:hover{
+    background-color: #454d6b;
+}
+.button-path{
+    position: absolute;
+    cursor: pointer;
+    width: 56px;
+    height: 56px;
+    border-radius: 5px;
+    background: #0C122A;;
+    border: none;
+    margin: 105px 136px 45px 115px;
+}          
+.button-path:hover{
+    background-color: #454d6b;
+}
+.button-file{
+    position: absolute;
+    cursor: pointer;
+    width: 56px;
+    height: 56px;
+    border-radius: 5px;
+    background: #0C122A;;
+    border: none;
+    margin: 105px 136px 45px 40px;
+}          
+.button-file:hover{
+    background-color: #454d6b;
+}
 
+
+.card-bar{
+    display: inline-block;
+    position: absolute;
+    width: 642px;
+    height: 176px;
+    margin: 338px 257px 306px 850px;
+    background: #1E2C69;
+    border-radius: 14px;
+}
  /*Continuar: 
- edição dos cards (centralizar e coloar icons); 
+ edição dos cards (centralizar e colocar icons); 
  pegar resolução do segundo card;
- editar botões com icones (usar uiverse.io "muito bom");
  descobrir como inserir balão de dados;
  como inserir barra de preenchimento funcional;
  descobrir como fazer texto se alterar (ou deixar estático 
