@@ -56,8 +56,6 @@ body{
 .button-file:hover{
     background-color: #454d6b;
 }
-
-
 .card-bar{
     display: inline-block;
     position: absolute;
@@ -67,6 +65,29 @@ body{
     background: #1E2C69;
     border-radius: 14px;
 }
+.progress-bar{
+    position: absolute;
+    width: 550px;
+    height: 16px;
+    margin: 85px 50px;
+    background-color: #0C122C;
+    border-radius: 12px;
+    
+}
+.bar{
+    position: absolute;
+    width: 81%;
+    height: 100%;
+    background-image: linear-gradient(to right, hsl(6, 100%, 80%), hsl(335, 100%, 65%));
+    border-radius: 12px;
+    
+}
+
+
+
+
+
+
  /*Continuar: 
  edição dos cards (centralizar e colocar icons); 
  pegar resolução do segundo card;
