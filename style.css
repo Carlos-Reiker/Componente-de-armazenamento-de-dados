@@ -1,13 +1,13 @@
-body{
-    
+body{ 
     font-family: 'Raleway', sans-serif;
     background: #0C122C;
     background-image:url(/images/bg-desktop.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-attachment: fixed;
-    background-position: bottom;  
+    background-position: bottom;
 }
+
 .card-upload {
     display:inline-block;
     position: absolute;
@@ -100,7 +100,3 @@ p{
     position: absolute;
     margin: 415px 190px 306px 1390px;
 }
-
-
- /*Continuar: 
- descobrir como inserir balão de dados;
