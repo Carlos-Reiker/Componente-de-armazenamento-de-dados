@@ -1,5 +1,5 @@
 body{
-    font-size: 14px;
+    
     font-family: 'Raleway', sans-serif;
     background: #0C122C;
     background-image:url(/images/bg-desktop.png);
@@ -79,19 +79,28 @@ body{
     width: 81%;
     height: 100%;
     background-image: linear-gradient(to right, hsl(6, 100%, 80%), hsl(335, 100%, 65%));
-    border-radius: 12px;
-    
+    border-radius: 12px;   
+}
+img{
+    position: absolute;
+    margin: 300px 257px 306px 1270px;
+} 
+p{
+    color: white;
+}
+.frase{
+    position: absolute;
+    margin: 385px 190px 306px 895px;
+}
+.gb1{
+    position: absolute;
+    margin: 435px 190px 306px 895px;
+}
+.gb2{
+    position: absolute;
+    margin: 415px 190px 306px 1390px;
 }
 
 
-
-
-
-
  /*Continuar: 
- edição dos cards (centralizar e colocar icons); 
- pegar resolução do segundo card;
  descobrir como inserir balão de dados;
- como inserir barra de preenchimento funcional;
- descobrir como fazer texto se alterar (ou deixar estático 
- apenas para exibição?)*/ 
